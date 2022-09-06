@@ -1,0 +1,15 @@
+C:\Users\benas\Desktop\TreeBranch\bin\Debug\net6.0\TreeBranch.exe
+C:\Users\benas\Desktop\TreeBranch\bin\Debug\net6.0\TreeBranch.deps.json
+C:\Users\benas\Desktop\TreeBranch\bin\Debug\net6.0\TreeBranch.runtimeconfig.json
+C:\Users\benas\Desktop\TreeBranch\bin\Debug\net6.0\TreeBranch.dll
+C:\Users\benas\Desktop\TreeBranch\bin\Debug\net6.0\TreeBranch.pdb
+C:\Users\benas\Desktop\TreeBranch\obj\Debug\net6.0\TreeBranch.csproj.AssemblyReference.cache
+C:\Users\benas\Desktop\TreeBranch\obj\Debug\net6.0\TreeBranch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benas\Desktop\TreeBranch\obj\Debug\net6.0\TreeBranch.AssemblyInfoInputs.cache
+C:\Users\benas\Desktop\TreeBranch\obj\Debug\net6.0\TreeBranch.AssemblyInfo.cs
+C:\Users\benas\Desktop\TreeBranch\obj\Debug\net6.0\TreeBranch.csproj.CoreCompileInputs.cache
+C:\Users\benas\Desktop\TreeBranch\obj\Debug\net6.0\TreeBranch.dll
+C:\Users\benas\Desktop\TreeBranch\obj\Debug\net6.0\refint\TreeBranch.dll
+C:\Users\benas\Desktop\TreeBranch\obj\Debug\net6.0\TreeBranch.pdb
+C:\Users\benas\Desktop\TreeBranch\obj\Debug\net6.0\TreeBranch.genruntimeconfig.cache
+C:\Users\benas\Desktop\TreeBranch\obj\Debug\net6.0\ref\TreeBranch.dll
