@@ -1,1 +1,0 @@
-Reiz Tech internship tasks
