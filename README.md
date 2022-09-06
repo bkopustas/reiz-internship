@@ -1,1 +1,1 @@
-# reiz-internship
+Reiz Tech internship tasks
